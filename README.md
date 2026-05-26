@@ -185,4 +185,3 @@ for testing APIs.
 
 **Yogesh**
 
-Java Full Stack Developer
