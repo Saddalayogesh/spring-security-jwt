@@ -50,7 +50,7 @@ src/main/java
 ├── repository
 ├── security
 ├── service
-└── service/impl
+└── service impl
 ```
 
 ---
@@ -183,5 +183,5 @@ for testing APIs.
 
 ## 👨‍💻 Author
 
-**Yogesh**
+ *Yogesh*
 
