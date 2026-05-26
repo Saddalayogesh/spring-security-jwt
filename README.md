@@ -1,38 +1,38 @@
-# Spring Security JWT Authentication
+# 🔐 Spring Security JWT Authentication
 
-A secure REST API project built using Java, Spring Boot, Spring Security, JWT Authentication, MySQL, and JPA.
+🔐 A secure REST API project built using Java, Spring Boot, Spring Security, JWT Authentication, MySQL, and JPA.
 
-This project demonstrates authentication, authorization, role-based access control, and CRUD operations for products.
+🚀 This project demonstrates authentication, authorization, role-based access control, and CRUD operations for products.
 
 ---
 
 ## 🚀 Features
 
-- User Signup & Login
-- JWT Authentication
-- Role-Based Authorization
-- Spring Security Configuration
-- Product CRUD Operations
-- MySQL Database Integration
-- Password Encryption using BCrypt
-- REST APIs
-- Exception Handling
-- Layered Architecture
+- 🔐 User Signup & Login
+- 🛡️ JWT Authentication
+- 👥 Role-Based Authorization
+- ⚙️ Spring Security Configuration
+- 📦 Product CRUD Operations
+- 🗄️ MySQL Database Integration
+- 🔒 Password Encryption using BCrypt
+- 🌐 REST APIs
+- ❌ Exception Handling
+- 🏗️ Layered Architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Java
-- Spring Boot
-- Spring Security
-- JWT
-- Spring Data JPA
-- Hibernate
-- MySQL
-- Maven
-- Lombok
-- ModelMapper
+- ☕ Java
+- 🌱 Spring Boot
+- 🔐 Spring Security
+- 🎫 JWT
+- 🗃️ Spring Data JPA
+- ⚡ Hibernate
+- 🐬 MySQL
+- 📦 Maven
+- 🧩 Lombok
+- 🔄 ModelMapper
 
 ---
 
@@ -92,13 +92,13 @@ CREATE DATABASE spring_security;
 
 ## 🔐 Authentication APIs
 
-### Signup
+### 📝 Signup
 
 ```http
 POST /api/auth/signup
 ```
 
-### Request Body
+### 📥 Request Body
 
 ```json
 {
@@ -110,13 +110,13 @@ POST /api/auth/signup
 
 ---
 
-### Login
+### 🔑 Login
 
 ```http
 POST /api/auth/login
 ```
 
-### Request Body
+### 📥 Request Body
 
 ```json
 {
@@ -140,19 +140,19 @@ POST /api/auth/login
 
 ## ▶️ Run the Project
 
-Clone the repository:
+### 📥 Clone Repository
 
 ```bash
 git clone https://github.com/your-username/spring-security-jwt.git
 ```
 
-Navigate to project folder:
+### 📂 Navigate to Project Folder
 
 ```bash
 cd spring-security-jwt
 ```
 
-Run the project:
+### ▶️ Run Application
 
 ```bash
 mvn spring-boot:run
@@ -162,26 +162,22 @@ mvn spring-boot:run
 
 ## 🧪 Testing
 
-Use:
+Use the following tools for API testing:
 
-- Postman
-- Thunder Client
-
-for testing APIs.
+- 📮 Postman
 
 ---
 
 ## 📌 Future Improvements
 
-- Refresh Token Implementation
-- Swagger Documentation
-- Email Verification
-- Docker Deployment
-- Unit Testing
+- 🔄 Refresh Token Implementation
+- 📚 Swagger Documentation
+- 📧 Email Verification
+- 🐳 Docker Deployment
+- ✅ Unit Testing
 
 ---
 
 ## 👨‍💻 Author
 
- *Yogesh*
-
+**Yogesh**
